@@ -6,3 +6,6 @@ Desenvolva um algoritmo que receba uma quantidade de um alimento em quilos, calc
 Exercício 3 - Escreva um algoritmo que leia uma medida em metros e converta em centímetros.
 
 Exercício 4 - Elabore um algoritmo que leia o nome, a quantidade e o valor de uma lista de 10 produtos. Ao final deverá calcular o subtotal de cada produto.
+
+Exercício 5 - Elabore um algoritmo que leia a medida do ambiente, a medida do piso e diga quantos pisos são necessários para cobrir o chão da sala.
+
