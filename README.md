@@ -4,3 +4,5 @@ Exercício 2 - Conversão de Quilos em Dias
 Desenvolva um algoritmo que receba uma quantidade de um alimento em quilos, calcule e mostre quantos dias durará esse alimento para uma pessoa que consome 50 gramas desse alimento por dia.
 
 Exercício 3 - Escreva um algoritmo que leia uma medida em metros e converta em centímetros.
+
+Exercício 4 - Elabore um algoritmo que leia o nome, a quantidade e o valor de uma lista de 10 produtos. Ao final deverá calcular o subtotal de cada produto.
