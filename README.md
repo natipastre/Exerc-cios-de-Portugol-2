@@ -9,3 +9,4 @@ Exercício 4 - Elabore um algoritmo que leia o nome, a quantidade e o valor de u
 
 Exercício 5 - Elabore um algoritmo que leia a medida do ambiente, a medida do piso e diga quantos pisos são necessários para cobrir o chão da sala.
 
+Exercício 6 - Elabore um algoritmo que leia o valor do lado do quadrado e calcule a área. Em seguida, calcule o dobro da área. Mostre a área e o dobro.
